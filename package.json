@@ -1,0 +1,28 @@
+{
+  "name": "twitter-interface",
+  "version": "1.0.0",
+  "description": "A twitter profile app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darindieckhoff/twitter-interface.git"
+  },
+  "keywords": [
+    "twitter",
+    "express",
+    "jade"
+  ],
+  "author": "Darin Dieckhoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darindieckhoff/twitter-interface/issues"
+  },
+  "homepage": "https://github.com/darindieckhoff/twitter-interface#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
