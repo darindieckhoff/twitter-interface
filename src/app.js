@@ -1,17 +1,14 @@
 /**----------------------------------------------------------------------
- * SCRAPER.JS
- *
  * @author:  Darin Dieckhoff
  * Date:    January 10, 2017
- * For:     Project 7, Build a Twitter Interface
  *
  * Use Node.js and Express to retrieve information from twitter account.
  * Use Twitter's REST API to communicate with Twitter, retrieve JSON data,
- * and display the results using an HTML template (jade). 
+ * and display the results using an HTML template (pug). 
  *
- * This application requires a keys.js stored in src/public/js directory
- * that stores the access keys to log onto 
- * a twitter account: The format of the file is as follows:
+ * This application requires a config.js file stored in src/public/js directory
+ * that stores the access keys to log onto a twitter account: 
+ * The format of the file is as follows:
  *    var accessKeys = {
  *        consumer_key: 'your consumer key',
  *        consumer_secret: 'your consumer secret',
