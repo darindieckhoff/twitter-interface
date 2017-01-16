@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"access",
+				"accessKeys"
+			],
+			[
+				"acce",
+				"accessKeys"
+			],
+			[
+				"acc",
+				"accessKeys"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"tw",
+				"tweetCount"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"twe",
+				"tweetTextLength"
+			],
+			[
+				"tweet",
+				"tweetText"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"me",
+				"messages"
+			],
+			[
+				"m",
+				"messages"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"sent",
+				"sentMessages"
+			],
+			[
+				"scre",
+				"consumer_secret"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+			"config.js",
+			"node -v",
+			"node app.js",
+			"node -v",
+			"mode -v",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/js/character_counter.js",
+		"/C/Users/dmdieckhoff/battleship-engine/main_test.js",
+		"/C/Users/dmdieckhoff/twitter-interface/src/app.js",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/css/global.css",
+		"/C/Users/dmdieckhoff/twitter-interface/index.html",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/partials/_header.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/js/config.js",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/partials/_following.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/partials/_timeline.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/partials/_messages.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/index.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/error.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/layout.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/package.json",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/partials/_head.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/node_modules/pug-parser/index.js",
+		"/C/Users/dmdieckhoff/twitter-interface/node_modules/pug-lexer/index.js",
+		"/C/Users/dmdieckhoff/twitter-interface/.gitignore",
+		"/C/Users/dmdieckhoff/twitter-interface/src/public/views/head.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/js/app.js",
+		"/C/Users/dmdieckhoff/twitter-interface/template.pug",
+		"/C/Users/dmdieckhoff/twitter-interface/js/config.js",
+		"/C/Users/dmdieckhoff/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/dmdieckhoff/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/dmdieckhoff/twitter-interface/README.md",
+		"/C/Users/dmdieckhoff/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			"text-align: c",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

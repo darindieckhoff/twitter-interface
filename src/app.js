@@ -13,10 +13,10 @@
  * that stores the access keys to log onto 
  * a twitter account: The format of the file is as follows:
  *    var accessKeys = {
- *        consumerKey: 'your consumer key',
- *        consumerSecret: 'your consumer secret',
- *        accessToken :  'your access token',
- *        accessSecret:  'your access secret',
+ *        consumer_key: 'your consumer key',
+ *        consumer_secret: 'your consumer secret',
+ *        access_token :  'your access token',
+ *        access_secret:  'your access secret',
  *    };
  *
  *    module.exports = accessKeys;
@@ -43,7 +43,7 @@ var messagesSent;
 var messages;
 
 // Paramters to pass to Twit get requests
-var params = {user_name: user.screen_name, count: 5}
+var params = {user_name: user.screen_name, count: 5};
 
 //Error message containing default error message
 var errMessage = 'Error occured while communicating with Twitter';
